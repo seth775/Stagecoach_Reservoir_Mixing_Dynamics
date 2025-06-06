@@ -9,7 +9,7 @@ This repository contains all the data, figures, and notebooks generated as part 
 * **Data/**
   Contains all datasets used in this project, including raw, preprocessed, and finalized files:
 
-  * **Georeference\_TIFF/**: Contains TIFF imagery of Stagecoach Reservoir and its dock.
+  * **Georeference\_TIFF/**: Contains TIFF imagery of Stagecoach Reservoir, dock TIFF located in OneDrive.
   * **Pre\_Processed\_CTD\_Data/**: Raw daily ZIP folders of CTD cast CSV files collected from May 14–19, 2025.
   * **Processed\_Dock\_Data/**: Final cleaned and filtered CTD files, including `dock_casts_with_mld_patched.csv`, used across nearly all visualizations.
   * **Weather\_Data/**: Contains weather station files, including:
